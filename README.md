@@ -8,9 +8,9 @@ Our aim is to optimize our food choices so as to have less impact on the environ
 ## Contenants
 Here's a file named Projet_FMAD consisting of :
 - a file project.py, containing the project's code parts 
-- a text file containing a link to a colab file also containing the project's code parts 
+- a pdf file containing a link to a colab file also containing the project's code parts 
 - an xlsx file containing the data used
-- a text file report.pdf containing answers to questions, as well as some explanations and images
+- a pdf file projet.pdf containing answers to questions, as well as some explanations and images
 
 
 ## Installation
@@ -20,7 +20,7 @@ Here's a file named Projet_FMAD consisting of :
   a) Use an IDLE, like pyzo, to launch the projet.py program
   make sure the AGRIBALYSE3 file is in the same directory as the .py file
   
-  b) Use the colab link in the text file colab.txt
+  b) Use the colab link in the text file liencolab.pdf
   be sure to download the AGRIBALYSE3 file before executing the code parts. 
   
 3. Before execution, don't forget to install the various packages (these are the 1st lines of code) and import them. 

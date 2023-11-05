@@ -1,35 +1,36 @@
 # EcoScore-Study
 
 ## About 
-L'Eco-score est un indicateur représentant l'impact environnemental des produits alimentaires. Il classe les produits en 5 catégories (A, B, C, D, E), de l'impact le plus faible, à l'impact le plus élevé.
+The Eco-score is an indicator representing the environmental impact of food products. It classifies products into 5 categories (A, B, C, D, E), from the lowest to the highest impact.
+Our aim is to optimize our food choices so as to have less impact on the environment, and thus be greener.
 
 
 ## Contenants
-Voici un fichier Projet_FMAD constitué :
-- d'un fichier projet.py contenant les parties de code du projet 
-- d'un fichier texte contenant un lien vers un fichier colab contenant egalement les parties de code du projet 
-- d'un fichier xlsx contenant les données utilisées
-- d'un fichier texte rapport.pdf contenant les reponses aux questions ainsi que certaines explications et images
+Here's a file named Projet_FMAD consisting of :
+- a file project.py, containing the project's code parts 
+- a text file containing a link to a colab file also containing the project's code parts 
+- an xlsx file containing the data used
+- a text file report.pdf containing answers to questions, as well as some explanations and images
 
 
 ## Installation
-1. Telecharger le fichier zip Projet_FMAD
-2. Lancer le projet, nous vous donnons 2 possibilitées: 
+1. Download the Projet_FMAD zip file
+2. Launch the project, we give you 2 possibilities: 
   
-  a) Utiliser un IDLE comme pyzo pour lancer le programme projet.py
-  veiller a ce que le fichier AGRIBALYSE3 soit dans le meme repertoire que le fichier .py
+  a) Use an IDLE, like pyzo, to launch the projet.py program
+  make sure the AGRIBALYSE3 file is in the same directory as the .py file
   
-  b) Utiliser le lien colab inscrit dans le fichier texte colab.txt
-  veiller a telecharger le fichier AGRIBALYSE3 avant d'executer les parties de code 
+  b) Use the colab link in the text file colab.txt
+  be sure to download the AGRIBALYSE3 file before executing the code parts. 
   
-3. Avant toute execution, ne pas oublier d'installer les differents packages ( ce sont les 1eres lignes de code ) et de les importer. 
+3. Before execution, don't forget to install the various packages (these are the 1st lines of code) and import them. 
 
 
-## Status du Projet
-Nous avons realisé toutes les questions malgre cetrains bug pour les 2 graphiques L1_inv et L1_inv_eco
+## Project status
+We have completed all the questions despite some bugs in the 2 L1_inv and L1_inv_eco graphs.
 
 
-### AUTEURS 
+### AUTORS
 El Yazid KADRI
 Emi BRISSON
 Carla NACHMAN
